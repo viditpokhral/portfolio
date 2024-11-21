@@ -26,7 +26,6 @@ The Java Developer Resume card links to `JavaDeveloper/DevResume.html`.
 
 ## Code
 
-```html
 <section class="grid--container">
 
     <!-- Cyber Security Resume -->
